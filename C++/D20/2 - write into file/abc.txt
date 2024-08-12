@@ -1,0 +1,3 @@
+all clear
+Congratulation
+This is a file created by C++ program

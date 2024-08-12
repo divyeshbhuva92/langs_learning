@@ -1,0 +1,3 @@
+in C language.
+1. square of an entered value.
+2. area of rectangle.

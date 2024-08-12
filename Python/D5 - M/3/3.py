@@ -1,0 +1,1 @@
+# Write Python Program to find factorial of given number.
